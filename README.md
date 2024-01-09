@@ -8,10 +8,10 @@ This is a placeholder project for the time being to timestamp when the idea occu
 
 Last month I was having a conversation with the Enterprise Architect.  Part of that conversation was the following;
 
-[EA] Why do we not have <redacted/>
-[Me] Well, that would mean we would <redacted/>
-[EA] Do you not think that represents <redacted/>
-[Me] well, yes, but <redacted/>
+- [EA] Why do we not have <redacted/>
+- [Me] Well, that would mean we would <redacted/>
+- [EA] Do you not think that represents <redacted/>
+- [Me] well, yes, but <redacted/>
 
 Obviously an internal conversation to the org so I can't give the full context of the conversation.  HOWEVER whilst doing some mundane tasks today whilst musing on this conversation and considering my need to build *something* public - why not kill two proverbial birds with the one rock?
 
